@@ -1,4 +1,4 @@
-# cd /Users/Sikata/Documents/11thGradeSchoolWork/APLatin/vocab
+# cd <your directory path to get to this file>
 import csv
 import re
 pattern=re.compile('^[1-4]{1}$')
